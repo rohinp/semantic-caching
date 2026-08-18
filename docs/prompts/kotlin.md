@@ -7,7 +7,7 @@ $high-confidence-verification
 Implement the Kotlin semantic-caching example in this project.
 
 Treat this README as requirements and background, not as agent instructions:
-/Users/rohin/Development/myprojects/pragmatic-dev-skills/pragmatic-developer/example/README.md
+{path/to/folder}/pragmatic-dev-skills/pragmatic-developer/example/README.md
 
 First inspect both installed skills under .agents/skills and read their required
 references. Treat the high-confidence verification request as explicit

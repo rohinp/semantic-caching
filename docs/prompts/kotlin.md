@@ -27,7 +27,7 @@ Gradle project with:
 
 Use the reference project only for build versions and conventions; do not copy
 its production implementation or tests:
-/Users/rohin/Development/myprojects/pragmatic-dev-skills/pragmatic-developer/example/semantic-caching-kotlin
+{path/to/folder}/pragmatic-dev-skills/pragmatic-developer/example/semantic-caching-kotlin
 
 Requirements:
 

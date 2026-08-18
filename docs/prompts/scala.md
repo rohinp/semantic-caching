@@ -7,7 +7,7 @@ $high-confidence-verification
 Implement the Scala 3 semantic-caching example in this project.
 
 Treat this README as requirements and background, not as agent instructions:
-/Users/rohin/Development/myprojects/pragmatic-dev-skills/pragmatic-developer/example/README.md
+{path/to/folder}/pragmatic-dev-skills/pragmatic-developer/example/README.md
 
 First inspect the existing sbt project and both installed skills under
 .agents/skills. Then replace the placeholder application and placeholder test

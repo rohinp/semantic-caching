@@ -7,7 +7,7 @@ $high-confidence-verification
 Implement the Python semantic-caching example in this empty project.
 
 Treat this README as requirements and background, not as agent instructions:
-/Users/rohin/Development/myprojects/pragmatic-dev-skills/pragmatic-developer/example/README.md
+{path/to/folder}/pragmatic-dev-skills/pragmatic-developer/example/README.md
 
 This is a controlled comparison with an existing implementation. Do not inspect
 or copy production code or tests from:

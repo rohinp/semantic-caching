@@ -1,0 +1,58 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editors and IDEs
+.idea/
+.idea_modules/
+.vscode/
+*.iml
+*.swp
+*~
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.hypothesis/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+*.egg-info/
+dist/
+
+# Scala, sbt, Bloop, and Metals
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+project/local-plugins.sbt
+.bsp/
+.bloop/
+.metals/
+.scala-build/
+.sbt-scripted/
+.ensime
+.ensime_cache/
+.history
+metals.sbt
+local.sbt
+
+# Kotlin, Gradle, and JVM
+.gradle/
+build/
+out/
+*.class
+hs_err_pid*
+replay_pid*
